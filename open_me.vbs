@@ -1,0 +1,1 @@
+x=msgbox ("so you made it this far, eh? ok well anyway dm me this code G427Vr382 to continued." ,2+16, "dm me for the hack")
